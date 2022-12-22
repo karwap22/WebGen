@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+header{
+    padding: 13px;
+    background-color: #bdb6e9;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(22, 18, 241);
+    
+    
+}
+
+.btn{
+    color: white;
+    background-color:rgba(39, 27, 39, 0.918) ;
+    padding: 4px;
+    margin: 4px;
+    margin-right: 9px;
+    border-radius: 5px;
+    float: right;
+    top: 4px;
+    font-size: large;
+}
+
+.btn:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+body{
+    /* background-image:url('https://media.istockphoto.com/photos/the-more-you-know-the-more-your-business-grows-picture-id1292991881?b=1&k=20&m=1292991881&s=170667a&w=0&h=5QfHORbgcqTFyHbRp7L83YlVF-U5Mt-AsWXX2zBtOZ8=') ; */
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+    /* background-size: cover; */
+    background-color: #bdb6e9;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+nav{
+     background-color: rgb(22, 18, 241) ; 
+     font-size: larger;
+     overflow: hidden;
+}
+nav a{
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+    
+}
+section{
+    background-color: #bdb6e9;
+    margin: 50px;
+    font-size: 25px;
+
+}
+main{
+    background-color: #bdb6e9;
+    text-align: center;
+}
+footer{
+    position: fixed;
+    margin-left: 60ch;
+    bottom: 10px;
+    background-color: rgb(22, 18, 241);
+    overflow: hidden;
+}
+
+footer a{
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+    
+}
+#heading{
+    color: rgb(22, 18, 241);
+}
